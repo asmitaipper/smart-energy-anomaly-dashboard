@@ -1,0 +1,11 @@
+timestamp,device_id,room,power_kw,voltage
+2026-01-01 00:00:00,AC_1,LivingRoom,0.8,220
+2026-01-01 00:05:00,AC_1,LivingRoom,0.9,221
+2026-01-01 00:10:00,AC_1,LivingRoom,1.0,219
+2026-01-01 00:15:00,AC_1,LivingRoom,4.5,225
+2026-01-01 00:20:00,AC_1,LivingRoom,0.7,220
+2026-01-01 00:00:00,FAN_1,Bedroom,0.1,220
+2026-01-01 00:05:00,FAN_1,Bedroom,0.1,220
+2026-01-01 00:10:00,FAN_1,Bedroom,0.2,219
+2026-01-01 00:15:00,FAN_1,Bedroom,0.2,220
+2026-01-01 00:20:00,FAN_1,Bedroom,2.5,230
